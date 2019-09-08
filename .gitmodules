@@ -1,3 +1,6 @@
 [submodule "2019"]
 	path = 2019
 	url = https://github.com/ammach/2019.git
+[submodule "2018"]
+	path = 2018
+	url = https://github.com/ammach/dojos/2018.git
